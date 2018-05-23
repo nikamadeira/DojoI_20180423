@@ -1,6 +1,6 @@
 #language: pt
 #utf-8
-
+@cadastro
 Funcionalidade: Cadastrar empregado	
 	Eu como analista
 	quero fazer um teste
